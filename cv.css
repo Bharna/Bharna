@@ -1,0 +1,268 @@
+title {
+  background: #DEFCF9;
+  text-align: center;
+}
+
+.page{
+  background: #DEFCF9;
+}
+/* font family
+font-family: 'Charm', cursive;
+
+font-family: 'Lobster', cursive;
+
+font-family: 'Luxurious Roman', cursive;
+
+font-family: 'Montserrat', sans-serif;
+
+font-family: 'Roboto', sans-serif;
+
+
+ */
+
+hr {
+  border-top: 8px dotted;
+  width: 10%;
+  background: none;
+  margin-top: 20px;
+  margin-left: 45%;
+  margin-bottom: 0;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  color: #7D5A5A;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+}
+
+h3{
+  margin-top: 70px;
+  font-family: 'Luxurious Roman', cursive;
+  font-size: 2rem;
+}
+
+p{
+  text-align: justify;
+  align-items: center;
+}
+
+section{
+  margin-top: 100px;
+}
+
+form{
+  background: #FBF8F1;
+  width: 500px;
+  margin-left: 20%;
+  margin-top: 100px;
+  padding: 50px 0 50px 50px;;
+
+}
+
+#Programming{
+  margin-top: -5px;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 150px;
+  align-items: center;
+  margin-left: auto;
+}
+
+.bharna {
+  font-family: "Charm", cursive;
+  font-size: 3rem;
+  color: #54BAB9;
+  margin: 32px 0 0;
+  text-shadow: 5px 5px 8px #CCA8E9;
+}
+
+.profile-pic:hover {
+  -webkit-filter: drop-shadow(5px 5px 5px #54BAB9);
+  filter: drop-shadow(5px 5px 80px #54BAB9);
+}
+
+.navbar {
+  background-color: #54BAB9;
+  border-bottom: 1px solid;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+.title-name {
+  font-size: 2rem;
+  padding-left: 20px;
+  color: #54BAB9;
+}
+
+.name {
+  font-family: 'Lobster', cursive;
+  color: #CCA8E9;
+  border-radius: 50%;
+  border: 1px solid #54BAB9;
+  margin-left: 10px
+}
+
+.name:hover{
+  background: #FBF8F1;
+}
+
+.p1 {
+  padding-left: 20px;
+  padding-top: 50px;
+  width: 500px;
+  margin: auto;
+}
+
+.ul1 {
+  text-align: left;
+  margin-top: 50px;
+}
+
+.li1 {
+  font-family: 'Roboto', sans-serif;
+  color: #CCA8E9;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+.python{
+  background: #CADEFC;
+  margin: 50px;
+  height: 200px;
+}
+
+.python:hover{
+  box-shadow: 5px 5px 8px #CCA8E9;
+  border-radius: 50%
+}
+
+.web{
+  background: #CADEFC;
+  margin: 50px;
+  height: 200px;
+}
+
+.web:hover{
+  box-shadow: 5px 5px 8px #CCA8E9;
+  border-radius: 50%
+}
+
+.w-r{
+  width: 500px;
+  margin-left: 150px;
+}
+
+.Download-btn {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  -webkit-box-shadow: 2px 3px 11px #cca8ec;
+  -moz-box-shadow: 2px 3px 11px #cca8ec;
+  box-shadow: 2px 3px 11px #cca8ec;
+  color: #000000;
+  font-size: 23px;
+  background: #cadefc;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.Download-btn:hover {
+  background: #defcf9;
+  background-image: -webkit-linear-gradient(top, #defcf9, #cca8e9);
+  background-image: -moz-linear-gradient(top, #defcf9, #cca8e9);
+  background-image: -ms-linear-gradient(top, #defcf9, #cca8e9);
+  background-image: -o-linear-gradient(top, #defcf9, #cca8e9);
+  background-image: linear-gradient(to bottom, #defcf9, #cca8e9);
+  text-decoration: none;
+}
+
+.n-btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #000000;
+  font-size: 17px;
+  background: #CADEFC;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.n-btn:hover {
+  background: #cadefc;
+  background-image: -webkit-linear-gradient(top, #cadefc, #cca8e9);
+  background-image: -moz-linear-gradient(top, #cadefc, #cca8e9);
+  background-image: -ms-linear-gradient(top, #cadefc, #cca8e9);
+  background-image: -o-linear-gradient(top, #cadefc, #cca8e9);
+  background-image: linear-gradient(to bottom, #cadefc, #cca8e9);
+  text-decoration: none;
+}
+
+.right{
+  margin-left: 300px;
+}
+
+.footer-links{
+  margin: 20px 25px 30px;
+  font-size: 1.2rem;
+  color: #54BAB9;
+}
+
+.footer-links:hover{
+  color: #30475E;
+}
+
+.footer-links:hover{
+  color: #CCA8E9;
+}
+
+.blank{
+  height: 20px;
+}
+
+
+.inline-block{
+  display: inline-block;
+
+}
+
+.contact-form{
+  text-align: left;
+  width: 500px;
+
+}
+
+.contact-td{
+  margin-left: 15px;
+}
+
+.disclaimer-div{
+  width: 500px;
+  margin-left: 20%
+}
+
+@media (min-width: 986px){
+  .w-r{
+    width: 1000px;
+    margin-left: 23%;;
+  }
+
+  form{
+    margin-left: 34%;
+  }
+  .disclaimer-div{
+    margin-left: 36%;
+  }
+}
