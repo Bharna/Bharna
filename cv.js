@@ -91,6 +91,10 @@ $(".disclaimer").click(function(){
   window.open("./templates/disclaimer.html")
 })
 
+$(".certificate").click(function(){
+  window.open("https://drive.google.com/drive/folders/1Rpp4Uf8LrSwxgnRg2o_ww9AzmJXx_MfS?usp=sharing")
+})
+
 
 $(".calculator").click(function() {
   window.open("https://drive.google.com/file/d/1nHyCkf7Hom6w6HXpICkdtxcRgli1NPAD/view?usp=sharing")
